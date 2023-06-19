@@ -1,0 +1,78 @@
+body{
+  background-color: #1E441E ;
+}
+header{
+  background-color: yellowgreen;
+  padding: 25px;
+}
+nav{
+  background-color:purple;
+  padding: 10px;
+}
+selection{
+  background-color:white;
+}
+article{
+  background-color:blue;
+}
+aside{
+  background-color:#21FA90;
+  width: 30%;
+  float: right;
+}
+
+            footer{
+
+                background-color: khaki;
+                padding: 40px;
+            }
+            .container{
+                max-width: 800px;
+                margin: 0 auto;
+                padding: 0 20px;
+            }
+            .footer-content{
+                display: flex;
+                flex-wrap: wrap;
+            }
+            .footer-section{
+                width: 100%;
+                padding: 20px;
+                box-sizing: border-box;
+            }
+            .about{
+                text-align: center;
+            }
+            .about h2{
+                margin-bottom: 20px;
+            }
+            .about p{
+                font-size: 18px;
+                line-height: 1.5;
+                margin-bottom: 20px;
+            }
+            .contact-links{
+                display: flex;
+                justify-content: center;
+            }
+            .contact-links a{
+                display: inline-block;
+                color: black;
+                font-size: 24px;
+                margin: 0 10px;
+                transition: all 0.3s ease;
+            }
+            .contact-links a:hover{
+                transform: translateY(-15px);
+            }
+            
+table{
+  background-color: whitesmoke;
+  width: 700px;
+  position: center;
+}
+cc{
+  font-family:'Verdana' Geneva, Tahoma,sans-serif;
+  font-weight: bold;
+  color: grey;
+}

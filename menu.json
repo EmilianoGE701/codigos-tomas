@@ -1,0 +1,251 @@
+{"menu":[
+    {
+        "id":1,
+        "nombre":"hamburguesa",
+        "descripcion":"doble carne,tocino,lechuga,tomate,cebolla,aguacate",
+        "precio":100,
+        "imagen":"img/hamburguesa.jpg"
+    },
+    {
+        "id":2,
+        "nombre":"Tacos",
+        "descripcion":"es una tortilla con bistec y cilantro,cebolla y salsa verde o roja",
+        "precio":60,
+        "imagen":"img/tacos.jpg"
+        },
+        {
+            "id":3,
+            "nombre":"spaghetti rojo",
+            "descripcion":"spaghetti con salsa roja de tomate",
+            "precio":32.50,
+            "imagen":"img/spagetirojo.jpg"
+        },
+        {
+            "id":4,
+            "nombre":"empanadas",
+            "descripcion":"empanada de carne molida",
+            "precio":20.99,
+            "imagen":"img/empanada.jpg"
+        },
+        {
+            "id":5,
+            "nombre":"pizza",
+            "descripcion":"pizza de peperoni buena para comer con amigos",
+            "precio":80,
+            "imagen":"img/pizza.jpg"
+        },
+        {
+            "id":6,
+            "nombre":"burritos",
+            "descripcion":"tortilla de harina con frijoles,queso,chile jalapeño y carne",
+            "precio":26.50,
+            "imagen":"img/burritos us.jpg"
+        },
+        {
+            "id":7,
+            "nombre":"sincronizadas",
+            "descripcion":"tortilla de arina con frijoles,queso rallado,bistec,trompo,aguacate,cebolla,tomate y lechuga",
+            "precio":95,
+            "imagen":"img/sincronizada.jpg"
+        },
+        {
+            "id":8,
+            "nombre":"tamales",
+            "descripcion":"tamalas de hoja de mais de prollo y frijoles",
+            "precio":15,
+            "imagen":"img/tamales.jpg"
+        },
+        {
+            "id":9,
+            "nombre":"chiles rellenos",
+            "descripcion":"chile poblano relleno de carnes y queso",
+            "precio":35,
+            "imagen":"img/chiles.jpg"
+        },
+        {
+            "id":10,
+            "nombre":"mole",
+            "descripcion":"pollo con arroz y tortillas",
+            "precio":56.90,
+            "imagen":"img/mole.jpg"
+        },
+        {
+            "id":11,
+            "nombre":"frijoles charos",
+            "descripcion":"frijoles con tocoino,cuero,chile,cebolla,tomate,chile",
+            "precio":20,
+            "imagen":"img/frijoles.jpg"
+        },
+        {
+            "id":12,
+            "nombre":"camarones",
+            "descripcion":"mariscos camarones cosinados",
+            "precio":15.50,
+            "imagen":"img/camarones.jpg"
+        },
+        {
+            "id":13,
+            "nombre":"pescado",
+            "descripcion":"pescado cosinado o aumado",
+            "precio":19.50,
+            "imagen":"img/pescado.jpg"
+        },
+        {
+            "id":14,
+            "nombre":"sushi",
+            "descripcion":"comida pezcado crudo con arroz",
+            "precio":16.50,
+            "imagen":"img/suchi.jpg"
+        },
+        {
+            "id":15,
+            "nombre":"papas fritas",
+            "descripcion":"papas y kepchupt",
+            "precio":16,
+            "imagen":"img/papafrita.jpg"
+        },
+        {
+            "id":16,
+            "nombre":"ensalada",
+            "descripcion":"vegetales,frutas",
+            "precio":50,
+            "imagen":"img/ensalada.jpg"
+        },
+        {
+            "id":17,
+            "nombre":"sopa de pollo",
+            "descripcion":"pollo, con zanahoria y hierbas",
+            "precio":28.50,
+            "imagen":"img/sopa.jpg"
+        },
+        {
+            "id":18,
+            "nombre":"enchiladas",
+            "descripcion":"tortillas de maiz con pollo en vueltas con salsa roja o verde y sobre ellas queso y aguacate",
+            "precio":36.20,
+            "imagen":"img/enchilada.jpg"
+        },
+        {
+            "id":19,
+            "nombre":"sope",
+            "descripcion":"sope de pollo",
+            "precio":30,
+            "imagen":"img/sope.jpg"
+        },
+        {
+            "id":20,
+            "nombre":"hotdogs",
+            "descripcion":"perros calientes",
+            "precio":26.50,
+            "imagen":"img/hotdogs.jpg"
+        }
+            
+],  
+ "complemetos":[
+{
+    "id":31,
+    "nombre":"tocino",
+    "precio":20,
+    "imagen":"img/tocino.jpg"
+},
+{
+
+"id":32,
+"nombre":"salsas verde",
+"precio":15,
+"imagen":"img/salsa.jpg"
+},
+{
+    "id":33,
+"nombre":"cebolla",
+"precio":10,
+"imagen":"img/cebolla.jpg"
+},
+{
+    "id":34,
+"nombre":"limon",
+"precio":13,
+"imagen":"img/lmon.jpg"
+},
+{
+    "id":35,
+"nombre":"carne extra",
+"precio":25,
+"imagen":"img/carne.jpg"
+}
+],
+"postres":[
+{
+"id":21,
+"nombre":"Helado",
+"descripcion":"fresas y leche ",
+"precio":20,
+"imagen":"img/fresa.jpg"
+},
+{
+"id":22,
+"nombre":"pay de queso",
+"descripcion":"galletas marias con leche y lechera",
+"precio":25,
+"imagen":"img/pay.jpg"
+},
+{
+"id":23,
+"nombre":"choco flan",
+"descripcion":"chocolate sobre flan",
+"precio":30,
+"imagen":"img/flan.jpg"
+},
+{
+"id":24,
+"nombre":"cupcakes",
+"descripcion":"cupcake de chocolate con vetun de chocolate",
+"precio":25,
+"imagen":"img/cupcake.jpg"
+},
+{
+"id":25,
+"nombre":"carlota de limon",
+"descripcion":"galletas marias con leche clavel y limon congelados",
+"precio":15,
+"imagen":"img/carlota.jpg"
+}
+],
+"bebidas":[
+  {
+"id":26,
+"nombre":"cafe",
+"descripcion":"cafe puede ser amargo o con leche",
+"precio":21,
+"imagen":"img/cafe.jpg"
+},
+{
+"id":27,
+"nombre":"sodas",
+"descripcion":"sodas o refrescos de sabor",
+"precio":15.50,
+"imagen":"img/sodas.jpg"
+},
+{
+"id":28,
+"nombre":"licuados",
+"descripcion":"licuados de frutas",
+"precio":30,
+"imagen":"img/licuados.jpg"
+},
+{
+"id":29,
+"nombre":"limonada",
+"descripcion":"limonada de limon",
+"precio":29,
+"imagen":"img/limonada.jpg"
+},
+{
+"id":30,
+"nombre":"jamaica",
+"descripcion":"agua de jamaica ",
+"precio":28,
+"imagen":"img/jamaica.jpg"
+}
+]
+    }

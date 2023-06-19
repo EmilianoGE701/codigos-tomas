@@ -1,0 +1,110 @@
+body {
+background-color: 	cadetblue;
+    font-family:'Gill Sans', 'Gill Sans M T', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h1{
+    color: black;
+}
+th{
+    background-color: 	 #0bf364;
+}
+table{
+    margin-left: 420px;
+    background-color: rgb(231, 211, 27)
+}
+img{
+height: 100px;
+width: 100px;
+}
+titulo1{
+    font-family: 'PROJECT SPACE', sans-serif;
+        font-size: 50px;
+        color: blue;
+        text-align: center;                                       
+}
+.collage{
+position: relative;
+width:800px;
+height: 600px;
+background-color: #01295F;
+border-radius: 10px;
+opacity: 0.9;
+}
+.imagen1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+    height: 200px;
+    z-index:1;
+    box-shadow:2px 2px 2px #FFB30F;
+}
+
+.imagen2{
+    position: absolute;
+    top: 0;
+    left: 200px;
+    width: 200px;
+    height: 200px;
+    z-index:2;
+    box-shadow:2px 2px 2px #FFB30F;
+}
+
+.imagen3{
+    position: absolute;
+    top: 0;
+    left: 300px;
+    width: 200px;
+    height: 200px;
+    z-index:3;
+    box-shadow:2px 2px 2px #FFB30F;
+}
+
+.imagen4{
+    position: absolute;
+    top: 0;
+    left: 400px;
+    width: 200px;
+    height: 200px;
+    z-index:4;
+    box-shadow:2px 2px 2px #FFB30F;
+}
+
+.imagen5{
+    position: absolute;
+    top: 0;
+    left: 500px;
+    width: 200px;
+    height: 200px;
+    z-index:5;
+    box-shadow:2px 2px 2px #FFB30F;
+}
+
+.imagen6{
+    position: absolute;
+    top: 0;
+    left: 600px;
+    width: 200px;
+    height: 200px;
+    z-index:6;
+    box-shadow:2px 2px 2px #FFB30F;
+}
+.imagen7{
+    position: absolute;
+    top: 0;
+    left: 700px;
+    width: 200px;
+    height: 200px;
+    z-index:7;
+    box-shadow:2px 2px 2px #FFB30F;
+}
+.imagen8{
+    position: absolute;
+    top: 0;
+    left: 800px;
+    width: 200px;
+    height: 200px;
+    z-index:8;
+    box-shadow:2px 2px 2px #FFB30F;
+}
